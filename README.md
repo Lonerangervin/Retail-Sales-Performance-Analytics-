@@ -3,7 +3,6 @@ Retail Sales Power BI Dashboard
 Retail- Sales Performance Analytics
 Location: Remote, Self-Initiated (Nairobi, Kenya) 
 Project Duration: 2025 
-Tools Used: SQL (MySQL), Power BI, Jupyter Notebook, Excel
 
 Overview
 
@@ -75,9 +74,7 @@ Key Insights (Example)
 
 Author
 
-Belinda Chemutai
-Vincent Brion
----
+Belinda Chemutai & Vincent Brion
 
 ## License
 
