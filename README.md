@@ -1,7 +1,18 @@
 Retail Sales Power BI Dashboard
+
+Retail- Sales Performance Analytics
+Location: Remote, Self-Initiated (Nairobi, Kenya) 
+Project Duration: 2025 
+Tools Used: SQL (MySQL), Power BI, Jupyter Notebook, Excel
+
 Overview
 
-This repository contains a **Retail Sales Analysis** project built using **Power BI** and a CSV dataset. The project focuses on analyzing retail store sales performance through interactive dashboards, highlighting trends, patterns, and key business insights that support data-driven decision-making.
+This project focuses on analyzing retail store sales performance using Power BI to transform raw transactional data into meaningful, actionable insights. Through interactive dashboards, the analysis explores sales behavior across different time periods, product categories, and business dimensions to uncover trends, patterns, and performance drivers.
+
+The dashboard is designed to support data-driven decision-making by presenting key metrics and visual summaries that help stakeholders quickly understand overall sales health, identify high- and low-performing segments, and observe changes in sales over time. Interactive filters and visuals allow users to drill down into specific areas of interest, making the analysis both flexible and intuitive.
+
+This project demonstrates practical skills in data cleaning, data modeling, KPI definition, and visualization design, with an emphasis on clarity, usability, and business relevance. It serves as both a learning exercise and a portfolio-ready example of applying Power BI to real-world retail data analysis.
+
 
 The repository includes:
 
